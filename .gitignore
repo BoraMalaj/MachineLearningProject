@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+.venv
+venv/
+virtualenv/
+venv.bak/
+.Virtualenv
+JupyterBackup/
+
+# Virtual Environment
+.python-version
+pip-selfcheck.json
+
+# IDE / VS Code
+.vscode/
+*.code-workspace
+
+# Outputs & logs (you can add more later)
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
