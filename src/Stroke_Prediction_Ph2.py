@@ -88,7 +88,7 @@ X_train_smote, y_train_smote = smote.fit_resample(X_train, y_train)
 # --- Cross-Validation Strategy ---
 cv = StratifiedKFold(n_splits=5, shuffle=True, random_state=42)
 
-print(f'✅ Data ready.')
+print(f'   Data ready.')
 print(f'   Train (after SMOTE): {X_train_smote.shape}')
 print(f'   Test (original):     {X_test.shape}')
 print(f'   Features:            {X_train_smote.shape[1]}')
