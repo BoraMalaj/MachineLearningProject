@@ -1,5 +1,5 @@
 """
-Phase 1 - Student A - Part 1: Problem Definition and Dataset Understanding.
+Phase 1 - Problem Definition and Dataset Understanding.
 
 Headless mirror of notebooks/01_problem_definition.ipynb. Loads the stroke
 prediction dataset, prints a structural summary, computes the class

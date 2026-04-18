@@ -1,5 +1,5 @@
 """
-Phase 1 - Student A - Part 3: Preprocessing
+Phase 1  Preprocessing
 ===========================================
 
 This module implements the preprocessing pipeline for the healthcare stroke
