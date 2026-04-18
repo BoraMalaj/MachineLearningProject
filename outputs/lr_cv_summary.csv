@@ -1,0 +1,6 @@
+Metric,CV Mean,CV Std,Test-set score
+ROC-AUC,0.8404,0.0195,0.8374
+PR-AUC,0.1891,0.0374,0.2522
+F1,0.2306,0.0195,0.221
+Recall,0.8088,0.0569,0.8
+Balanced Acc,0.7709,0.0317,0.7601
